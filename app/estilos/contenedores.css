@@ -1,0 +1,7 @@
+/*contenedores.css*/
+.containerMain{
+    display: flex;
+    height: 200vh;
+    width: 1200px;
+    background-color: lightsalmon;
+}

@@ -1,0 +1,6 @@
+/*header.css*/
+header{
+    display: flex;
+    background: lightgreen;
+    height: 80px;
+}
