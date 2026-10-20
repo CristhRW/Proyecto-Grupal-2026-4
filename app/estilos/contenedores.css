@@ -4,4 +4,24 @@
     height: 200vh;
     width: 1200px;
     background-color: lightsalmon;
+    flex-direction: column;
+}
+.contCategoria{
+    width: 50px;
+    height: 50px;
+    border: solid 1px black;
+    margin-left: 15px;
+}
+.categorias{
+    display: flex;
+    flex-direction: row;
+}
+.slectivaProdu{
+    display: flex;
+    flex-direction: column;
+}
+.contUnidadCat{
+    height: 380px;
+    border: solid 1px black;
+    margin-top: 15px;
 }
