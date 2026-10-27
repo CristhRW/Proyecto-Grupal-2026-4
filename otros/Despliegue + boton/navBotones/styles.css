@@ -1,0 +1,13 @@
+.navBar{
+    display: flex;
+    flex-direction: row;
+}
+
+.btn{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.card{
+    margin-top: 20px;
+    margin-left: 20px;
+}
